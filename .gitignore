@@ -3,3 +3,5 @@
 /MethodPractice/nbproject/private/
 /methPractice/nbproject/private/
 /methPractice/build/
+.metadata/
+*.class
